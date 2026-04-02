@@ -1,0 +1,11 @@
+game_code: mlb
+
+# League IDs (optional — auto-discovered from your Yahoo account if empty)
+# Run "python scripts/discover_leagues.py" to populate, or add manually.
+# league_ids:
+#   - "12345"
+#   - "67890"
+
+# Maximum number of players to scan from the league player pool for free agents.
+# Yahoo returns ~25 per API page. 250 = 10 pages = 10 API calls per league.
+free_agent_limit: 250

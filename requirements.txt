@@ -1,0 +1,3 @@
+yfpy
+pyyaml
+python-dotenv
