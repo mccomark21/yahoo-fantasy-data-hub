@@ -1,941 +1,934 @@
 league_name,fantasy_team,player_name,mlb_team,eligible_positions,primary_position,player_status,percent_owned,last_updated
-Sega Memorial Fantasy Baseball,Still One Duran,Shea Langeliers,ATH,C,C,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Josh Naylor,SEA,1B,1B,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Nico Hoerner,CHC,2B,2B,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Alex Bregman,CHC,3B,3B,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Francisco Lindor,NYM,SS,SS,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Kyle Tucker,LAD,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Jarren Duran,BOS,OF,OF,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Daylen Lile,WSH,OF,OF,,59,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Brandon Nimmo,TEX,OF,OF,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Trea Turner,PHI,SS,SS,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Steven Kwan,CLE,OF,OF,,85,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Max Fried,NYY,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Ranger Suarez,BOS,SP,SP,,87,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Cade Smith,CLE,RP,RP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Carlos Estévez,KC,RP,RP,IL15,73,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Nathan Eovaldi,TEX,SP,SP,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Joe Ryan,MIN,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Jack Leiter,TEX,SP,SP,,50,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Nick Pivetta,SD,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Kyle Bradish,BAL,SP,SP,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Tanner Bibee,CLE,SP,SP,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Still One Duran,Joe Musgrove,SD,SP,SP,IL15,33,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Agustín Ramírez,MIA,C,C,,87,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Bryce Harper,PHI,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Ozzie Albies,ATL,2B,2B,,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Jordan Lawlar,AZ,3B,3B,IL10,10,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Jacob Wilson,ATH,SS,SS,,80,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Ronald Acuña Jr.,ATL,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Fernando Tatis Jr.,SD,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Jackson Merrill,SD,OF,OF,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Shohei Ohtani (Batter),LAD,Util,Util,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Josh Smith,TEX,1B,1B,,11,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Bryce Eldridge,SF,1B,1B,NA,9,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Jackson Holliday,BAL,2B,2B,IL10,58,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Leo De Vries,ATH,SS,SS,NA,9,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Carson Benge,NYM,OF,OF,,30,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Paul Skenes,PIT,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Bubba Chandler,PIT,SP,SP,,90,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Jhoan Duran,PHI,RP,RP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Bryan Abreu,HOU,RP,RP,,58,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Shohei Ohtani (Pitcher),LAD,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Andrew Painter,PHI,SP,SP,,48,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Cody Ponce,TOR,SP,SP,IL15,24,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Spencer Strider,ATL,SP,SP,IL15,90,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Acuña Matata,Jared Jones,PIT,SP,SP,IL60,20,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Will Smith,LAD,C,C,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Freddie Freeman,LAD,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Brice Turang,MIL,2B,2B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Munetaka Murakami,CWS,1B,1B,,90,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Bobby Witt Jr.,KC,SS,SS,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Aaron Judge,NYY,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Yordan Alvarez,HOU,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Byron Buxton,MIN,OF,OF,DTD,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Mike Trout,LAA,OF,OF,,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Eugenio Suárez,CIN,3B,3B,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Jac Caglianone,KC,1B,1B,,70,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Garrett Crochet,BOS,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Logan Gilbert,SEA,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Pete Fairbanks,MIA,RP,RP,,89,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Ryan Walker,SF,RP,RP,,78,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Shane McClanahan,TB,SP,SP,,84,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Clay Holmes,NYM,SP,SP,,49,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Brayan Bello,BOS,SP,SP,,23,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Cade Horton,CHC,SP,SP,DTD,82,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Tatsuya Imai,HOU,SP,SP,,80,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Jackson Jobe,DET,SP,SP,IL60,3,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,All Rise & Wittness,Hunter Greene,CIN,SP,SP,IL60,70,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Adley Rutschman,BAL,C,C,,79,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Vladimir Guerrero Jr.,TOR,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Jazz Chisholm Jr.,NYY,2B,2B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Manny Machado,SD,3B,3B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Corey Seager,TEX,SS,SS,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Julio Rodríguez,SEA,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Oneil Cruz,PIT,OF,OF,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Juan Soto,NYM,OF,OF,DTD,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,JJ Wetherholt,STL,2B,2B,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Lawrence Butler,ATH,OF,OF,,71,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Max Clark,DET,OF,OF,NA,5,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Jo Adell,LAA,OF,OF,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Eury Pérez,MIA,SP,SP,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Chase Burns,CIN,SP,SP,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Aroldis Chapman,BOS,RP,RP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Kenley Jansen,DET,RP,RP,,89,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,MacKenzie Gore,TEX,SP,SP,,92,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Sandy Alcantara,MIA,SP,SP,,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Brandon Woodruff,MIL,SP,SP,,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Zac Gallen,AZ,SP,SP,,80,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Burns so good,Thomas White,MIA,SP,SP,NA,5,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Hunter Goodman,COL,C,C,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Salvador Perez,KC,C,C,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jose Altuve,HOU,2B,2B,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Kazuma Okamoto,TOR,1B,1B,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jeremy Peña,HOU,SS,SS,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Cody Bellinger,NYY,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Tyler Soderstrom,ATH,1B,1B,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Giancarlo Stanton,NYY,OF,OF,,61,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Geraldo Perdomo,AZ,SS,SS,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Teoscar Hernández,LAD,OF,OF,,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jakob Marsee,MIA,OF,OF,,82,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Ceddanne Rafaela,BOS,2B,2B,,85,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Carlos Correa,HOU,3B,3B,,49,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Yoshinobu Yamamoto,LAD,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Hunter Brown,HOU,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Mason Miller,SD,RP,RP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Abner Uribe,MIL,RP,RP,,72,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jacob deGrom,TEX,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Dylan Cease,TOR,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Cam Schlittler,NYY,SP,SP,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Trevor Megill,MIL,RP,RP,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Carlos Rodón,NYY,SP,SP,IL15,86,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Shane Bieber,TOR,SP,SP,IL15,57,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Ben Rice,NYY,C,C,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Vinnie Pasquantino,KC,1B,1B,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Jorge Polanco,NYM,2B,2B,,59,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Max Muncy,LAD,3B,3B,,38,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Gunnar Henderson,BAL,SS,SS,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Corbin Carroll,AZ,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,George Springer,TOR,OF,OF,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Trent Grisham,NYY,OF,OF,,53,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Mookie Betts,LAD,SS,SS,DTD,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Jackson Chourio,MIL,OF,OF,IL10,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Konnor Griffin,PIT,SS,SS,,86,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Isaac Paredes,HOU,3B,3B,NA,56,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Marcelo Mayer,BOS,2B,2B,,11,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Tarik Skubal,DET,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Chris Sale,ATL,SP,SP,DTD,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Devin Williams,NYM,RP,RP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Jeff Hoffman,TOR,RP,RP,,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Jacob Misiorowski,MIL,SP,SP,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Kris Bubic,KC,SP,SP,,77,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Mick Abel,MIN,SP,SP,,13,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Emmet Sheehan,LAD,SP,SP,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Nick Lodolo,CIN,SP,SP,IL15,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,McChocolate Milk,Ryan Pepiot,TB,SP,SP,IL15,89,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Drake Baldwin,ATL,C,C,,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Matt Olson,ATL,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Ketel Marte,AZ,2B,2B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Austin Riley,ATL,3B,3B,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Trevor Story,BOS,SS,SS,,89,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Kyle Schwarber,PHI,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Christian Yelich,MIL,OF,OF,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Randy Arozarena,SEA,OF,OF,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Yandy Díaz,TB,1B,1B,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Cal Raleigh,SEA,C,C,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Andy Pages,LAD,OF,OF,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Willy Adames,SF,SS,SS,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Freddy Peralta,NYM,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Tyler Glasnow,LAD,SP,SP,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Raisel Iglesias,ATL,RP,RP,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Emilio Pagán,CIN,RP,RP,,89,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Kevin Gausman,TOR,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Sonny Gray,BOS,SP,SP,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Luis Castillo,SEA,SP,SP,,96,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Josh Hader,HOU,RP,RP,IL15,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Robbie Ray,SF,SP,SP,,90,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Blake Snell,LAD,SP,SP,IL15,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Spencer Schwellenbach,ATL,SP,SP,IL60,47,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Samuel Basallo,BAL,C,C,,35,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Pete Alonso,BAL,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Travis Bazzana,CLE,2B,2B,NA,8,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Noelvi Marte,CIN,3B,3B,,52,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Zach Neto,LAA,SS,SS,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Dylan Crews,WSH,OF,OF,NA,40,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Wyatt Langford,TEX,OF,OF,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Cam Smith,HOU,OF,OF,,6,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Sal Stewart,CIN,1B,1B,,77,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,CJ Abrams,WSH,SS,SS,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Sebastian Walcott,TEX,3B,3B,NA,3,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Walker Jenkins,MIN,OF,OF,NA,5,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Kevin McGonigle,DET,3B,3B,,83,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Kyle Stowers,MIA,OF,OF,IL10,90,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Logan Webb,SF,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,George Kirby,SEA,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Payton Tolle,BOS,SP,SP,NA,9,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Daniel Palencia,CHC,RP,RP,,92,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Framber Valdez,DET,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Nolan McLean,NYM,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Edward Cabrera,CHC,SP,SP,,83,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Jonah Tong,NYM,SP,SP,NA,6,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Ivan Herrera,STL,C,C,,82,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Michael Busch,CHC,1B,1B,,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Luke Keaschall,MIN,2B,2B,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Junior Caminero,TB,3B,3B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Bo Bichette,NYM,3B,3B,,97,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,James Wood,WSH,OF,OF,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Roman Anthony,BOS,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Riley Greene,DET,OF,OF,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Addison Barger,TOR,3B,3B,,42,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Seiya Suzuki,CHC,OF,OF,IL10,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Xavier Edwards,MIA,2B,2B,,88,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Jesús Luzardo,PHI,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Connelly Early,BOS,SP,SP,,65,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Edwin Díaz,LAD,RP,RP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Andrés Muñoz,SEA,RP,RP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Kodai Senga,NYM,SP,SP,,67,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Shane Baz,BAL,SP,SP,,75,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Drew Rasmussen,TB,SP,SP,,89,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Trey Yesavage,TOR,SP,SP,IL15,92,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Roki Sasaki,LAD,SP,SP,,46,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Michael King,SD,SP,SP,,93,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Zack Wheeler,PHI,SP,SP,IL15,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,The Voice of Reason,Corbin Burnes,AZ,SP,SP,IL60,45,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,William Contreras,MIL,C,C,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Nick Kurtz,ATH,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Maikel Garcia,KC,2B,2B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,José Ramírez,CLE,3B,3B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Elly De La Cruz,CIN,SS,SS,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Brent Rooker,ATH,OF,OF,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Pete Crow-Armstrong,CHC,OF,OF,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Michael Harris II,ATL,OF,OF,,94,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Rafael Devers,SF,1B,1B,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Carter Jensen,KC,C,C,,20,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Chase DeLauter,CLE,OF,OF,,80,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Charlie Condon,COL,1B,1B,NA,6,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Cristopher Sánchez,PHI,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Bryan Woo,SEA,SP,SP,,99,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,David Bednar,NYY,RP,RP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Ryan Helsley,BAL,RP,RP,,95,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Cole Ragans,KC,SP,SP,,98,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Shota Imanaga,CHC,SP,SP,,90,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Ryan Weathers,NYY,SP,SP,,35,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Gavin Williams,CLE,SP,SP,,91,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Trevor Rogers,BAL,SP,SP,,92,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,TheHotDogSafari,Gerrit Cole,NYY,SP,SP,IL15,82,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Justin Verlander,DET,SP,SP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Andrew McCutchen,TEX,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Carlos Carrasco,ATL,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Max Scherzer,TOR,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,David Robertson,PHI,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Justin Turner,CHC,1B,1B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Carlos Santana,AZ,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jason Heyward,SD,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Craig Kimbrel,NYM,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Martín Pérez,ATL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jose Iglesias,SD,2B,2B,SUSP,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Shelby Miller,CHC,RP,RP,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Alex Cobb,DET,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Paul Goldschmidt,NYY,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Wade Miley,CIN,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Liam Hendriks,MIN,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Drew Pomeranz,LAA,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Yu Darvish,SD,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Travis d'Arnaud,LAA,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Gary Sánchez,MIL,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Nolan Arenado,AZ,3B,3B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Anthony Rendon,LAA,3B,3B,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Nick Castellanos,SD,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jurickson Profar,ATL,OF,OF,SUSP,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Starling Marte,KC,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jameson Taillon,CHC,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Erasmo Ramírez,MIN,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Patrick Corbin,TOR,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Miles Mikolas,WSH,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jose Quintana,COL,SP,SP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Donovan Solano,TEX,1B,1B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jorge Soler,LAA,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Brooks Raley,NYM,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Justin Wilson,BOS,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Xander Bogaerts,SD,SS,SS,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Taijuan Walker,PHI,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Michael Wacha,KC,SP,SP,DTD,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Austin Hedges,CLE,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,T.J. McFarland,ATH,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ryan Pressly,CHC,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Marcell Ozuna,PIT,Util,Util,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ryan Brasier,TEX,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Caleb Thielbar,CHC,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Joc Pederson,TEX,Util,Util,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Luis García,NYM,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Wilmer Flores,SF,1B,1B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Marcus Semien,NYM,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Christian Bethancourt,CHC,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Lucas Sims,CWS,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Eduardo Rodriguez,AZ,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Hunter Harvey,CHC,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Javier Báez,DET,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Kris Bryant,COL,Util,Util,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Pierce Johnson,CIN,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jesse Winker,NYM,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Robert Stephenson,LAA,RP,RP,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jon Gray,TEX,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tom Murphy,SF,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Lance McCullers Jr.,HOU,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Sean Manaea,NYM,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Andrew Heaney,LAD,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Dominic Smith,ATL,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Rafael Montero,NYY,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Steven Matz,TB,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler Austin,CHC,1B,1B,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,J.P. Crawford,SEA,SS,SS,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Reese McGuire,CWS,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Luke Jackson,NYM,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Marcus Stroman,NYY,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Lucas Giolito,BOS,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Nick Martinez,TB,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tommy Kahnle,BOS,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Blake Treinen,LAD,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Chris Martin,TEX,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Randal Grichuk,NYY,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Anthony DeSclafani,AZ,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,J.T. Realmuto,PHI,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Miguel Rojas,LAD,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Kirby Yates,LAA,RP,RP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Enrique Hernández,LAD,1B,1B,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Christian Vázquez,HOU,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Chris Taylor,LAA,2B,2B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Héctor Neris,KC,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Andrew Chafin,CIN,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Chris Bassitt,BAL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Hunter Strickland,LAA,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Yimi García,TOR,RP,RP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,James McCann,AZ,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Kendall Graveman,AZ,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tommy Pham,NYM,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Danny Coulombe,BOS,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Christian Walker,HOU,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Rob Refsnyder,SEA,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Manuel Margot,DET,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Kyle Freeland,COL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Derek Hill,CWS,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Sean Newcomb,CWS,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Orlando Arcia,MIN,1B,1B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,José Berríos,TOR,SP,SP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Michael Conforto,CHC,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Luis Severino,ATH,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Aaron Nola,PHI,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Josh Bell,MIN,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Alex Jackson,MIN,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Hunter Renfroe,KC,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tim Anderson,LAA,2B,2B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Mark Canha,TEX,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Yoán Moncada,LAA,3B,3B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Miguel Castro,LAA,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,José Ureña,LAA,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Michael Lorenzen (Pitcher),COL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Austin Barnes,NYM,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Joe Ross,AZ,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Gio Urshela,MIN,3B,3B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Matthew Boyd,CHC,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Frankie Montas,NYM,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler Anderson,LAA,SP,SP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Shawn Armstrong,CLE,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Colin Rea,CHC,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Travis Jankowski,NYM,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Scott McGough,ATH,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Luke Maile,KC,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Scott Alexander,SF,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Elias Díaz,KC,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Max Kepler,PHI,OF,OF,SUSP,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jorge López,WSH,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Adrian Houser,SF,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Kenta Maeda,DET,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Steven Okert,HOU,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Mike Yastrzemski,ATL,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Taylor Rogers,MIN,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Zach Eflin,BAL,SP,SP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Trevor Williams,WSH,SP,SP,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ryan Yarbrough,NYY,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Reynaldo López,ATL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Andrew Benintendi,CWS,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Willson Contreras,BOS,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ryan McMahon,NYY,3B,3B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Antonio Senzatela,COL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Sam Moll,CIN,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyrone Taylor,NYM,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler Wade,TEX,2B,2B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Matt Chapman,SF,3B,3B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler O'Neill,BAL,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Luke Weaver,NYM,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Victor Robles,SEA,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Erick Fedde,CWS,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Brendan Rodgers,BOS,2B,2B,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Amed Rosario,NYY,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Dansby Swanson,CHC,SS,SS,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Gleyber Torres,DET,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jorge Mateo,ATL,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Chris Devenski,PIT,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Derek Law,AZ,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Albert Suárez,BAL,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Chad Green,TOR,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Mike Clevinger,PIT,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Chris Stratton,LAD,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jacob Stallings,BAL,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Adam Frazier,LAA,2B,2B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Brock Stewart,LAD,RP,RP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Seth Lugo,KC,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jeimer Candelario,LAA,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,José Leclerc,SD,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Matt Strahm,KC,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Brent Suter,LAA,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Rob Zastryzny,MIL,RP,RP,IL15,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Wandy Peralta,SD,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Carson Kelly,CHC,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Germán Márquez,SD,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Michael Kopech,LAD,RP,RP,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Anthony Banda,MIN,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Taylor Clarke,AZ,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Brad Keller,PHI,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Kolby Allard,CLE,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Michael Soroka,AZ,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Joey Wentz,ATL,SP,SP,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ryan Mountcastle,BAL,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Keegan Akin,BAL,SP,SP,IL10,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tanner Scott,LAD,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Eloy Jiménez,TOR,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ian Happ,CHC,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Bryan Hudson,CWS,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler Mahle,SF,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler Stephenson,CIN,C,C,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Nolan Jones,CLE,OF,OF,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Will Benson,CIN,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Joe Jiménez,ATL,RP,RP,IL60,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Tyler Alexander,TEX,SP,SP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Garrett Stubbs,PHI,C,C,NA,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Ryan O'Hearn,PIT,1B,1B,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Foster Griffin,WSH,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jakob Junis,TEX,RP,RP,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Taylor Ward,BAL,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Jahmai Jones,DET,OF,OF,,,2026-04-05 08:32 UTC
-Sega Memorial Fantasy Baseball,Free Agent,Brandon Marsh,PHI,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Salvador Perez,KC,C,C,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Vladimir Guerrero Jr.,TOR,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Maikel Garcia,KC,2B,2B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Miguel Vargas,CWS,1B,1B,,20,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Geraldo Perdomo,AZ,SS,SS,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Corbin Carroll,AZ,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Christian Yelich,MIL,OF,OF,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Jac Caglianone,KC,1B,1B,,70,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Teoscar Hernández,LAD,OF,OF,,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Jose Fernandez,AZ,SS,SS,,10,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Ryan O'Hearn,PIT,1B,1B,,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Matt McLain,CIN,2B,2B,,70,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Bryce Eldridge,SF,1B,1B,NA,9,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Garrett Crochet,BOS,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Tyler Glasnow,LAD,SP,SP,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Jack Flaherty,DET,SP,SP,,82,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Kodai Senga,NYM,SP,SP,,67,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Aroldis Chapman,BOS,RP,RP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Alex Vesia,LAD,RP,RP,,19,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Camilo Doval,NYY,RP,RP,,13,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Connelly Early,BOS,SP,SP,,65,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Casey Mize,DET,SP,SP,,32,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Gerrit Cole,NYY,SP,SP,IL15,82,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Corbin Burnes,AZ,SP,SP,IL60,45,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Joe Musgrove,SD,SP,SP,IL15,33,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Evil Empire (6x Champ),Edwin Uceta,TB,RP,RP,IL15,18,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Francisco Alvarez,NYM,C,C,,32,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Nick Kurtz,ATH,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Nico Hoerner,CHC,2B,2B,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Bo Bichette,NYM,3B,3B,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jeremy Peña,HOU,SS,SS,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jose Altuve,HOU,2B,2B,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jakob Marsee,MIA,OF,OF,,82,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jordan Walker,STL,OF,OF,,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),TJ Rumfield,COL,1B,1B,,5,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),TJ Friedl,CIN,OF,OF,,22,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Samuel Basallo,BAL,C,C,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jordan Lawlar,AZ,3B,3B,IL10,10,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Charlie Condon,COL,1B,1B,NA,6,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Cam Schlittler,NYY,SP,SP,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Freddy Peralta,NYM,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Andrew Abbott,CIN,SP,SP,,86,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Emerson Hancock,SEA,SP,SP,,64,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Trevor Megill,MIL,RP,RP,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Fernando Cruz,NYY,RP,RP,,8,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jeremiah Estrada,SD,RP,RP,,19,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Andrew Painter,PHI,SP,SP,,48,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Kris Bubic,KC,SP,SP,,77,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Jacob deGrom,TEX,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Zack Wheeler,PHI,SP,SP,IL15,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,Alpha Bear 🔥 (3x),Ryan Pepiot,TB,SP,SP,IL15,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Adley Rutschman,BAL,C,C,,79,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Michael Busch,CHC,1B,1B,,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Ozzie Albies,ATL,2B,2B,,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Alec Bohm,PHI,1B,1B,,64,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Trea Turner,PHI,SS,SS,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Wyatt Langford,TEX,OF,OF,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Luis Robert Jr.,NYM,OF,OF,,92,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Bryan Reynolds,PIT,OF,OF,,80,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Brenton Doyle,COL,OF,OF,,64,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Christian Walker,HOU,1B,1B,,83,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Ernie Clement,TOR,1B,1B,,64,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Masyn Winn,STL,SS,SS,DTD,46,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Dylan Cease,TOR,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Gavin Williams,CLE,SP,SP,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Joe Ryan,MIN,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Bryan Woo,SEA,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Dennis Santana,PIT,RP,RP,,81,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Ryan Walker,SF,RP,RP,,78,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,MacKenzie Gore,TEX,SP,SP,,92,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Logan Gilbert,SEA,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Noah Cameron,KC,SP,SP,,36,2026-04-05 08:32 UTC
-League of Champions™ 2026,Brown Bear 🐻,Carlos Rodón,NYY,SP,SP,IL15,86,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Ivan Herrera,STL,C,C,,82,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Josh Naylor,SEA,1B,1B,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Luke Keaschall,MIN,2B,2B,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Munetaka Murakami,CWS,1B,1B,,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,CJ Abrams,WSH,SS,SS,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Juan Soto,NYM,OF,OF,DTD,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Kyle Schwarber,PHI,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Adolis García,PHI,OF,OF,,47,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Isaac Paredes,HOU,3B,3B,NA,56,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Brandon Lowe,PIT,2B,2B,,82,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Owen Caissie,MIA,OF,OF,,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Andrew Vaughn,MIL,1B,1B,IL10,41,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Hunter Brown,HOU,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Chase Burns,CIN,SP,SP,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Braxton Ashcraft,PIT,SP,SP,,47,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Kyle Bradish,BAL,SP,SP,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Cade Smith,CLE,RP,RP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Robert Garcia,TEX,RP,RP,,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,JoJo Romero,STL,RP,RP,,15,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Matthew Boyd,CHC,SP,SP,,84,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Ryan Weathers,NYY,SP,SP,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Jason Adam,SD,RP,RP,IL15,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Nick Lodolo,CIN,SP,SP,IL15,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,El Jefe,Payton Tolle,BOS,SP,SP,NA,9,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Hunter Goodman,COL,C,C,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Vinnie Pasquantino,KC,1B,1B,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Luis García Jr.,WSH,2B,2B,,53,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Manny Machado,SD,3B,3B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Zach Neto,LAA,SS,SS,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Aaron Judge,NYY,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Cody Bellinger,NYY,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Pete Crow-Armstrong,CHC,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Sal Frelick,MIL,OF,OF,DTD,22,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Carlos Correa,HOU,3B,3B,,49,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Gabriel Moreno,AZ,C,C,,18,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Spencer Torkelson,DET,1B,1B,,71,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Addison Barger,TOR,3B,3B,,42,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Jordan Westburg,BAL,2B,2B,IL60,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Nick Gonzales,PIT,2B,2B,,3,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Tyler Mahle,SF,SP,SP,,8,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Max Fried,NYY,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Tanner Bibee,CLE,SP,SP,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Michael King,SD,SP,SP,,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Paul Sewald,AZ,RP,RP,,46,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Riley O'Brien,STL,RP,RP,,31,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Luke Weaver,NYM,RP,RP,,14,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,David Peterson,NYM,SP,SP,,31,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Jared Jones,PIT,SP,SP,IL60,20,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Carlos Lagrange,NYY,SP,SP,NA,6,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Chris Bassitt,BAL,SP,SP,,28,2026-04-05 08:32 UTC
-League of Champions™ 2026,Gardy Goes Yardy,Garrett Cleavinger,TB,RP,RP,IL15,14,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Ben Rice,NYY,C,C,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Bryce Harper,PHI,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Marcus Semien,NYM,2B,2B,,73,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Austin Riley,ATL,3B,3B,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Gunnar Henderson,BAL,SS,SS,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Ronald Acuña Jr.,ATL,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Michael Harris II,ATL,OF,OF,,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,James Wood,WSH,OF,OF,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Cal Raleigh,SEA,C,C,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Ramón Laureano,SD,OF,OF,,57,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Jackson Holliday,BAL,2B,2B,IL10,58,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Colt Emerson,SEA,SS,SS,NA,12,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Grant Holmes,ATL,SP,SP,,17,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Aaron Nola,PHI,SP,SP,,83,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Will Warren,NYY,SP,SP,,49,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Landen Roupp,SF,SP,SP,,25,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Bryan Abreu,HOU,RP,RP,,58,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Robert Suarez,ATL,RP,RP,,62,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Gregory Soto,PIT,RP,RP,,19,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Shane Smith,CWS,SP,SP,,14,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Brandon Pfaadt,AZ,SP,SP,,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Lance McCullers Jr.,HOU,SP,SP,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Zach Eflin,BAL,SP,SP,IL15,9,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Grayson Rodriguez,LAA,SP,SP,IL15,14,2026-04-05 08:32 UTC
-League of Champions™ 2026,FatherOfTwoLoaded,Kenley Jansen,DET,RP,RP,,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Liam Hicks,MIA,C,C,,48,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Luis Arraez,SF,1B,1B,,71,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Brendan Donovan,SEA,2B,2B,DTD,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Caleb Durbin,BOS,2B,2B,,23,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Bobby Witt Jr.,KC,SS,SS,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Chandler Simpson,TB,OF,OF,,69,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Steven Kwan,CLE,OF,OF,,85,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Jarren Duran,BOS,OF,OF,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Jacob Wilson,ATH,SS,SS,,80,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Xander Bogaerts,SD,SS,SS,,32,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Yainer Diaz,HOU,C,C,,74,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,José Caballero,NYY,2B,2B,,71,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Cristopher Sánchez,PHI,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Sonny Gray,BOS,SP,SP,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Tyler Alexander,TEX,SP,SP,,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Roki Sasaki,LAD,SP,SP,,46,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Emilio Pagán,CIN,RP,RP,,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Griffin Jax,TB,RP,RP,,44,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Daniel Palencia,CHC,RP,RP,,92,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Tatsuya Imai,HOU,SP,SP,,80,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Mitch Keller,PIT,SP,SP,,33,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Carlos Estévez,KC,RP,RP,IL15,73,2026-04-05 08:32 UTC
-League of Champions™ 2026,House Omega,Spencer Schwellenbach,ATL,SP,SP,IL60,47,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Will Smith,LAD,C,C,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Sal Stewart,CIN,1B,1B,,77,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,JJ Wetherholt,STL,2B,2B,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Max Muncy,LAD,3B,3B,,38,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Elly De La Cruz,CIN,SS,SS,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Yordan Alvarez,HOU,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Mike Trout,LAA,OF,OF,,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Roman Anthony,BOS,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Corey Seager,TEX,SS,SS,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Kazuma Okamoto,TOR,1B,1B,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Jorge Polanco,NYM,2B,2B,,59,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Trent Grisham,NYY,OF,OF,,53,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Eury Pérez,MIA,SP,SP,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Mick Abel,MIN,SP,SP,,13,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Randy Vásquez,SD,SP,SP,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Edward Cabrera,CHC,SP,SP,,83,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Pete Fairbanks,MIA,RP,RP,,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Lucas Erceg,KC,RP,RP,,51,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Cade Horton,CHC,SP,SP,DTD,82,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Drew Rasmussen,TB,SP,SP,,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Paul Skenes,PIT,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Justin Steele,CHC,SP,SP,IL60,19,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Bryce Miller,SEA,SP,SP,IL15,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Hunter Greene,CIN,SP,SP,IL60,70,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,Cody Ponce,TOR,SP,SP,IL15,24,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Away Game Diapers,River Ryan,LAD,SP,SP,NA,3,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Agustín Ramírez,MIA,C,C,,87,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Yandy Díaz,TB,1B,1B,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Brett Baty,NYM,2B,2B,,12,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Jazz Chisholm Jr.,NYY,2B,2B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Francisco Lindor,NYM,SS,SS,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Riley Greene,DET,OF,OF,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Fernando Tatis Jr.,SD,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Andy Pages,LAD,OF,OF,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Taylor Ward,BAL,OF,OF,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Royce Lewis,MIN,3B,3B,,47,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Byron Buxton,MIN,OF,OF,DTD,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Seiya Suzuki,CHC,OF,OF,IL10,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Carson Williams,TB,SS,SS,,3,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Jesús Luzardo,PHI,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Sean Manaea,NYM,SP,SP,,23,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Shota Imanaga,CHC,SP,SP,,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Devin Williams,NYM,RP,RP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Raisel Iglesias,ATL,RP,RP,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Jameson Taillon,CHC,SP,SP,,16,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Clay Holmes,NYM,SP,SP,,49,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Reynaldo López,ATL,SP,SP,,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Nick Pivetta,SD,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Spirit of Troy,Trevor Rogers,BAL,SP,SP,,92,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Tyler Soderstrom,ATH,1B,1B,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Gleyber Torres,DET,2B,2B,,74,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Junior Caminero,TB,3B,3B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Kevin McGonigle,DET,3B,3B,,83,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),George Springer,TOR,OF,OF,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Wilyer Abreu,BOS,OF,OF,,81,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Kyle Isbel,KC,OF,OF,,15,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Jackson Merrill,SD,OF,OF,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Cole Young,SEA,2B,2B,,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Nick Fortes,TB,C,C,,2,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Alejandro Kirk,TOR,C,C,IL10,42,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Jackson Chourio,MIL,OF,OF,IL10,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Kyle Stowers,MIA,OF,OF,IL10,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Leo De Vries,ATH,SS,SS,NA,9,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Jordan Beck,COL,OF,OF,,12,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Jack Leiter,TEX,SP,SP,,50,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Mike Burrows,HOU,SP,SP,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Jhoan Duran,PHI,RP,RP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Mason Miller,SD,RP,RP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Bubba Chandler,PIT,SP,SP,,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Nolan McLean,NYM,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Jacob Misiorowski,MIL,SP,SP,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Sandy Alcantara,MIA,SP,SP,,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Shane Baz,BAL,SP,SP,,75,2026-04-05 08:32 UTC
-League of Champions™ 2026,That’s Reddickulous (2x),Emmet Sheehan,LAD,SP,SP,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Carter Jensen,KC,C,C,,20,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Jake Burger,TEX,1B,1B,,34,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Ketel Marte,AZ,2B,2B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Javier Sanoja,MIA,2B,2B,,2,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Otto Lopez,MIA,2B,2B,,66,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Justin Crawford,PHI,OF,OF,,22,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Giancarlo Stanton,NYY,OF,OF,,61,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Oneil Cruz,PIT,OF,OF,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Heliot Ramos,SF,OF,OF,,60,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,José Ramírez,CLE,3B,3B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Chase DeLauter,CLE,OF,OF,,80,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Willson Contreras,BOS,1B,1B,,87,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Carson Benge,NYM,OF,OF,,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Trevor Story,BOS,SS,SS,,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Mickey Moniak,COL,OF,OF,,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Lourdes Gurriel Jr.,AZ,OF,OF,IL10,3,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Aidan Miller,PHI,SS,SS,NA,3,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Tarik Skubal,DET,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,George Kirby,SEA,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Ranger Suarez,BOS,SP,SP,,87,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Andrés Muñoz,SEA,RP,RP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Will Vest,DET,RP,RP,,14,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Framber Valdez,DET,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Hunter Gaddis,CLE,RP,RP,IL15,11,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Max Scherzer,TOR,SP,SP,,31,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Cole Ragans,KC,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,Skub and the gang,Brad Keller,PHI,RP,RP,,7,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Drake Baldwin,ATL,C,C,,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Pete Alonso,BAL,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Ceddanne Rafaela,BOS,2B,2B,,85,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Colson Montgomery,CWS,3B,3B,,86,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Willy Adames,SF,SS,SS,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Brandon Nimmo,TEX,OF,OF,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Ian Happ,CHC,OF,OF,,89,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Daylen Lile,WSH,OF,OF,,59,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Shohei Ohtani (Batter),LAD,Util,Util,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Ezequiel Tovar,COL,SS,SS,,76,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Dylan Crews,WSH,OF,OF,NA,40,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Daulton Varsho,TOR,OF,OF,,46,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Chad Patrick,MIL,SP,SP,,21,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Yoshinobu Yamamoto,LAD,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Michael Soroka,AZ,SP,SP,,43,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Eric Lauer,TOR,SP,SP,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Edwin Díaz,LAD,RP,RP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Ryan Helsley,BAL,RP,RP,,95,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),David Bednar,NYY,RP,RP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),José Soriano,LAA,SP,SP,,72,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Nathan Eovaldi,TEX,SP,SP,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Brandon Woodruff,MIL,SP,SP,,94,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Jordan Romano,LAA,RP,RP,,44,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Trey Yesavage,TOR,SP,SP,IL15,92,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Kranimals (0x),Spencer Strider,ATL,SP,SP,IL15,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),William Contreras,MIL,C,C,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Freddie Freeman,LAD,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Xavier Edwards,MIA,2B,2B,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Alex Bregman,CHC,3B,3B,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Mookie Betts,LAD,SS,SS,DTD,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Kyle Tucker,LAD,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Randy Arozarena,SEA,OF,OF,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Lawrence Butler,ATH,OF,OF,,71,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Matt Olson,ATL,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Joey Wiemer,WSH,OF,OF,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Mauricio Dubón,ATL,2B,2B,,16,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Matt Chapman,SF,3B,3B,,91,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Dillon Dingler,DET,C,C,,24,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Kyle Teel,CWS,C,C,IL10,12,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Heliot Ramos,SF,OF,OF,,60,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Chris Sale,ATL,SP,SP,DTD,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Kyle Harrison,MIL,SP,SP,,32,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Zac Gallen,AZ,SP,SP,,80,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Cole Ragans,KC,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Jeff Hoffman,TOR,RP,RP,,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Erik Sabrowski,CLE,RP,RP,,15,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Gabe Speier,SEA,RP,RP,,7,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Parker Messick,CLE,SP,SP,,35,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Shane Bieber,TOR,SP,SP,IL15,57,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Josh Hader,HOU,RP,RP,IL15,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Blake Snell,LAD,SP,SP,IL15,93,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Logan Henderson,MIL,SP,SP,,17,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Brendon Little,TOR,RP,RP,,2,2026-04-05 08:32 UTC
-League of Champions™ 2026,The Spice Lord (10% Champion),Ranger Suarez,BOS,SP,SP,,87,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Shea Langeliers,ATH,C,C,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Jonathan Aranda,TB,1B,1B,,76,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Brice Turang,MIL,2B,2B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Eugenio Suárez,CIN,3B,3B,,97,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Konnor Griffin,PIT,SS,SS,,86,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Julio Rodríguez,SEA,OF,OF,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Brent Rooker,ATH,OF,OF,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Alec Burleson,STL,1B,1B,,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Rafael Devers,SF,1B,1B,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Dansby Swanson,CHC,SS,SS,,81,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Jo Adell,LAA,OF,OF,,88,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Logan Webb,SF,SP,SP,,99,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Shohei Ohtani (Pitcher),LAD,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Michael Wacha,KC,SP,SP,DTD,30,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Luis Castillo,SEA,SP,SP,,96,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Tanner Scott,LAD,RP,RP,,13,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Matt Strahm,KC,RP,RP,,19,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Matt Brash,SEA,RP,RP,,12,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Kevin Gausman,TOR,SP,SP,,98,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Robbie Ray,SF,SP,SP,,90,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Shane McClanahan,TB,SP,SP,,84,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Merrill Kelly,AZ,SP,SP,IL15,64,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Garrett Whitlock,BOS,RP,RP,NA,29,2026-04-05 08:32 UTC
-League of Champions™ 2026,WestCoastTruth (1x Champ),Zack Littell,WSH,SP,SP,,4,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Justin Verlander,DET,SP,SP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Andrew McCutchen,TEX,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Carlos Carrasco,ATL,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,David Robertson,PHI,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Justin Turner,CHC,1B,1B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Carlos Santana,AZ,1B,1B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jason Heyward,SD,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Craig Kimbrel,NYM,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Martín Pérez,ATL,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jose Iglesias,SD,2B,2B,SUSP,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Shelby Miller,CHC,RP,RP,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Alex Cobb,DET,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Paul Goldschmidt,NYY,1B,1B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Wade Miley,CIN,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Liam Hendriks,MIN,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Drew Pomeranz,LAA,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Yu Darvish,SD,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Travis d'Arnaud,LAA,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Gary Sánchez,MIL,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Nolan Arenado,AZ,3B,3B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Anthony Rendon,LAA,3B,3B,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Nick Castellanos,SD,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jurickson Profar,ATL,OF,OF,SUSP,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Starling Marte,KC,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Erasmo Ramírez,MIN,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Patrick Corbin,TOR,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Miles Mikolas,WSH,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jose Quintana,COL,SP,SP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Donovan Solano,TEX,1B,1B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jorge Soler,LAA,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Brooks Raley,NYM,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Justin Wilson,BOS,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Taijuan Walker,PHI,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Austin Hedges,CLE,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,T.J. McFarland,ATH,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Ryan Pressly,CHC,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Marcell Ozuna,PIT,Util,Util,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Ryan Brasier,TEX,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Caleb Thielbar,CHC,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Joc Pederson,TEX,Util,Util,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Luis García,NYM,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Wilmer Flores,SF,1B,1B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Christian Bethancourt,CHC,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Lucas Sims,CWS,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Eduardo Rodriguez,AZ,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Hunter Harvey,CHC,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Javier Báez,DET,2B,2B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Kris Bryant,COL,Util,Util,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Pierce Johnson,CIN,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jesse Winker,NYM,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Robert Stephenson,LAA,RP,RP,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jon Gray,TEX,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tom Murphy,SF,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Andrew Heaney,LAD,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Dominic Smith,ATL,1B,1B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Rafael Montero,NYY,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Steven Matz,TB,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tyler Austin,CHC,1B,1B,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,J.P. Crawford,SEA,SS,SS,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Reese McGuire,CWS,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Luke Jackson,NYM,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Marcus Stroman,NYY,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Lucas Giolito,BOS,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Nick Martinez,TB,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tommy Kahnle,BOS,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Blake Treinen,LAD,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Chris Martin,TEX,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Randal Grichuk,NYY,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Anthony DeSclafani,AZ,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,J.T. Realmuto,PHI,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Miguel Rojas,LAD,2B,2B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Kirby Yates,LAA,RP,RP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Enrique Hernández,LAD,1B,1B,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Christian Vázquez,HOU,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Chris Taylor,LAA,2B,2B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Héctor Neris,KC,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Andrew Chafin,CIN,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Hunter Strickland,LAA,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Yimi García,TOR,RP,RP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,James McCann,AZ,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Kendall Graveman,AZ,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tommy Pham,NYM,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Danny Coulombe,BOS,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Rob Refsnyder,SEA,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Manuel Margot,DET,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Kyle Freeland,COL,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Derek Hill,CWS,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Sean Newcomb,CWS,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Orlando Arcia,MIN,1B,1B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,José Berríos,TOR,SP,SP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Michael Conforto,CHC,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Luis Severino,ATH,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Josh Bell,MIN,1B,1B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Alex Jackson,MIN,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Hunter Renfroe,KC,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tim Anderson,LAA,2B,2B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Mark Canha,TEX,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Yoán Moncada,LAA,3B,3B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Miguel Castro,LAA,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,José Ureña,LAA,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Michael Lorenzen (Pitcher),COL,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Austin Barnes,NYM,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Joe Ross,AZ,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Gio Urshela,MIN,3B,3B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Frankie Montas,NYM,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tyler Anderson,LAA,SP,SP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Shawn Armstrong,CLE,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Colin Rea,CHC,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Travis Jankowski,NYM,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Scott McGough,ATH,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Luke Maile,KC,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Scott Alexander,SF,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Elias Díaz,KC,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Max Kepler,PHI,OF,OF,SUSP,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jorge López,WSH,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Adrian Houser,SF,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Kenta Maeda,DET,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Steven Okert,HOU,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Mike Yastrzemski,ATL,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Taylor Rogers,MIN,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Trevor Williams,WSH,SP,SP,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Ryan Yarbrough,NYY,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Andrew Benintendi,CWS,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Ryan McMahon,NYY,3B,3B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Antonio Senzatela,COL,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Sam Moll,CIN,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tyrone Taylor,NYM,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tyler Wade,TEX,2B,2B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tyler O'Neill,BAL,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Victor Robles,SEA,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Erick Fedde,CWS,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Brendan Rodgers,BOS,2B,2B,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Amed Rosario,NYY,2B,2B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jorge Mateo,ATL,2B,2B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Chris Devenski,PIT,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Derek Law,AZ,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Albert Suárez,BAL,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Chad Green,TOR,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Mike Clevinger,PIT,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Chris Stratton,LAD,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jacob Stallings,BAL,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Adam Frazier,LAA,2B,2B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Brock Stewart,LAD,RP,RP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Seth Lugo,KC,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jeimer Candelario,LAA,1B,1B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,José Leclerc,SD,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Brent Suter,LAA,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Rob Zastryzny,MIL,RP,RP,IL15,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Wandy Peralta,SD,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Carson Kelly,CHC,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Germán Márquez,SD,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Michael Kopech,LAD,RP,RP,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Anthony Banda,MIN,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Taylor Clarke,AZ,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Kolby Allard,CLE,SP,SP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Joey Wentz,ATL,SP,SP,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Ryan Mountcastle,BAL,1B,1B,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Keegan Akin,BAL,SP,SP,IL10,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Eloy Jiménez,TOR,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Bryan Hudson,CWS,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Tyler Stephenson,CIN,C,C,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Nolan Jones,CLE,OF,OF,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Will Benson,CIN,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Joe Jiménez,ATL,RP,RP,IL60,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Garrett Stubbs,PHI,C,C,NA,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Foster Griffin,WSH,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jakob Junis,TEX,RP,RP,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Jahmai Jones,DET,OF,OF,,,2026-04-05 08:32 UTC
-League of Champions™ 2026,Free Agent,Brandon Marsh,PHI,OF,OF,,,2026-04-05 08:32 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Shea Langeliers,ATH,C,C,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Josh Naylor,SEA,1B,1B,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Nico Hoerner,CHC,2B,2B,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Alex Bregman,CHC,3B,3B,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Trea Turner,PHI,SS,SS,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Daylen Lile,WSH,OF,OF,,59,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Brandon Nimmo,TEX,OF,OF,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Kyle Tucker,LAD,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Wilyer Abreu,BOS,OF,OF,,82,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Jarren Duran,BOS,OF,OF,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Francisco Lindor,NYM,SS,SS,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Max Fried,NYY,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Jack Leiter,TEX,SP,SP,,57,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Cade Smith,CLE,RP,RP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Lucas Erceg,KC,RP,RP,,52,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Joe Ryan,MIN,SP,SP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Tanner Bibee,CLE,SP,SP,,88,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Nick Pivetta,SD,SP,SP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Kyle Bradish,BAL,SP,SP,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Ranger Suarez,BOS,SP,SP,,87,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Nathan Eovaldi,TEX,SP,SP,,90,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Carlos Estévez,KC,RP,RP,IL15,72,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Still One Duran,Joe Musgrove,SD,SP,SP,IL15,32,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Agustín Ramírez,MIA,C,C,,87,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Bryce Harper,PHI,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Ozzie Albies,ATL,2B,2B,,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Miguel Vargas,CWS,1B,1B,,28,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Max Muncy,ATH,2B,2B,,27,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Ronald Acuña Jr.,ATL,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Fernando Tatis Jr.,SD,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Jackson Merrill,SD,OF,OF,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Shohei Ohtani (Batter),LAD,Util,Util,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Bryce Eldridge,SF,1B,1B,NA,9,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Jackson Holliday,BAL,2B,2B,IL10,58,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Leo De Vries,ATH,SS,SS,NA,9,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Carson Benge,NYM,OF,OF,,27,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Colt Emerson,SEA,SS,SS,NA,13,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Paul Skenes,PIT,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Bubba Chandler,PIT,SP,SP,,90,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Jhoan Duran,PHI,RP,RP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Paul Sewald,AZ,RP,RP,,48,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Shohei Ohtani (Pitcher),LAD,SP,SP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Andrew Painter,PHI,SP,SP,,53,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Parker Messick,CLE,SP,SP,,43,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Spencer Strider,ATL,SP,SP,IL15,90,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Acuña Matata,Jared Jones,PIT,SP,SP,IL60,20,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Will Smith,LAD,C,C,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Freddie Freeman,LAD,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Brice Turang,MIL,2B,2B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Munetaka Murakami,CWS,1B,1B,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Bobby Witt Jr.,KC,SS,SS,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Aaron Judge,NYY,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Yordan Alvarez,HOU,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Byron Buxton,MIN,OF,OF,,93,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Eugenio Suárez,CIN,3B,3B,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Mike Trout,LAA,OF,OF,DTD,92,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Jac Caglianone,KC,1B,1B,,69,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Garrett Crochet,BOS,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Logan Gilbert,SEA,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Trevor Megill,MIL,RP,RP,,88,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Gregory Soto,PIT,RP,RP,,22,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Shane McClanahan,TB,SP,SP,,84,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Tatsuya Imai,HOU,SP,SP,,81,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Brayan Bello,BOS,SP,SP,,22,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Pete Fairbanks,MIA,RP,RP,,89,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Clay Holmes,NYM,SP,SP,,50,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Cade Horton,CHC,SP,SP,IL15,80,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Jackson Jobe,DET,SP,SP,IL60,3,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,All Rise & Wittness,Hunter Greene,CIN,SP,SP,IL60,69,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Adley Rutschman,BAL,C,C,,79,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Vladimir Guerrero Jr.,TOR,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Jazz Chisholm Jr.,NYY,2B,2B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Manny Machado,SD,3B,3B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Corey Seager,TEX,SS,SS,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Julio Rodríguez,SEA,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Oneil Cruz,PIT,OF,OF,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Juan Soto,NYM,OF,OF,DTD,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,JJ Wetherholt,STL,2B,2B,,88,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Lawrence Butler,ATH,OF,OF,,70,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Max Clark,DET,OF,OF,NA,5,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Jo Adell,LAA,OF,OF,,87,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Eury Pérez,MIA,SP,SP,,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Chase Burns,CIN,SP,SP,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Aroldis Chapman,BOS,RP,RP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Kenley Jansen,DET,RP,RP,,88,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,MacKenzie Gore,TEX,SP,SP,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Sandy Alcantara,MIA,SP,SP,,95,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Brandon Woodruff,MIL,SP,SP,,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Zac Gallen,AZ,SP,SP,,80,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Burns so good,Thomas White,MIA,SP,SP,NA,5,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Hunter Goodman,COL,C,C,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Salvador Perez,KC,C,C,,95,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jose Altuve,HOU,2B,2B,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Kazuma Okamoto,TOR,1B,1B,,87,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jeremy Peña,HOU,SS,SS,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Cody Bellinger,NYY,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Tyler Soderstrom,ATH,1B,1B,,95,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Giancarlo Stanton,NYY,OF,OF,,62,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Liam Hicks,MIA,C,C,,53,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Geraldo Perdomo,AZ,SS,SS,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Teoscar Hernández,LAD,OF,OF,,93,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jakob Marsee,MIA,OF,OF,,80,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Yoshinobu Yamamoto,LAD,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Hunter Brown,HOU,SP,SP,IL15,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Mason Miller,SD,RP,RP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Abner Uribe,MIL,RP,RP,,70,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Jacob deGrom,TEX,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Dylan Cease,TOR,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Cam Schlittler,NYY,SP,SP,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Emerson Hancock,SEA,SP,SP,,66,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Randy Vásquez,SD,SP,SP,,36,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Carlos Rodón,NYY,SP,SP,IL15,86,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,DiZ-Hajj-O,Shane Bieber,TOR,SP,SP,IL15,57,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Ben Rice,NYY,C,C,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Vinnie Pasquantino,KC,1B,1B,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Jorge Polanco,NYM,2B,2B,,56,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Max Muncy,LAD,3B,3B,,37,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Gunnar Henderson,BAL,SS,SS,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Corbin Carroll,AZ,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,George Springer,TOR,OF,OF,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Konnor Griffin,PIT,SS,SS,,86,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Trent Grisham,NYY,OF,OF,,53,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Marcelo Mayer,BOS,2B,2B,,11,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Isaac Paredes,HOU,3B,3B,NA,55,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Jackson Chourio,MIL,OF,OF,IL10,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Mookie Betts,LAD,SS,SS,IL10,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Tarik Skubal,DET,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Chris Sale,ATL,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Devin Williams,NYM,RP,RP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Jeff Hoffman,TOR,RP,RP,,93,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Jacob Misiorowski,MIL,SP,SP,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Kris Bubic,KC,SP,SP,,78,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Mick Abel,MIN,SP,SP,,9,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Emmet Sheehan,LAD,SP,SP,,87,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Ryan Pepiot,TB,SP,SP,IL15,89,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,McChocolate Milk,Nick Lodolo,CIN,SP,SP,IL15,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Drake Baldwin,ATL,C,C,,93,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Matt Olson,ATL,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Ketel Marte,AZ,2B,2B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Austin Riley,ATL,3B,3B,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Willy Adames,SF,SS,SS,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Kyle Schwarber,PHI,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Christian Yelich,MIL,OF,OF,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Andy Pages,LAD,OF,OF,,92,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Yandy Díaz,TB,1B,1B,,95,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Randy Arozarena,SEA,OF,OF,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Trevor Story,BOS,SS,SS,,87,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Cal Raleigh,SEA,C,C,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Freddy Peralta,NYM,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Tyler Glasnow,LAD,SP,SP,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Raisel Iglesias,ATL,RP,RP,,95,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Emilio Pagán,CIN,RP,RP,,89,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Kevin Gausman,TOR,SP,SP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Luis Castillo,SEA,SP,SP,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Robbie Ray,SF,SP,SP,,90,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Sonny Gray,BOS,SP,SP,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Josh Hader,HOU,RP,RP,IL15,93,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Blake Snell,LAD,SP,SP,IL15,93,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Salustro's Fantasy Dungeon,Spencer Schwellenbach,ATL,SP,SP,IL60,46,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Samuel Basallo,BAL,C,C,,34,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Pete Alonso,BAL,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Travis Bazzana,CLE,2B,2B,NA,8,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Noelvi Marte,CIN,3B,3B,,50,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Zach Neto,LAA,SS,SS,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Wyatt Langford,TEX,OF,OF,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Cam Smith,HOU,OF,OF,,11,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Walker Jenkins,MIN,OF,OF,NA,5,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Sal Stewart,CIN,1B,1B,,77,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,CJ Abrams,WSH,SS,SS,,96,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Sebastian Walcott,TEX,3B,3B,NA,3,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Kevin McGonigle,DET,3B,3B,,83,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Jesús Made,MIL,2B,2B,NA,7,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Kyle Stowers,MIA,OF,OF,IL10,89,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Logan Webb,SF,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,George Kirby,SEA,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Payton Tolle,BOS,SP,SP,NA,9,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Daniel Palencia,CHC,RP,RP,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Framber Valdez,DET,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Nolan McLean,NYM,SP,SP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Edward Cabrera,CHC,SP,SP,,85,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Spaceballs RiseofSAL,Jonah Tong,NYM,SP,SP,NA,6,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Ivan Herrera,STL,C,C,,82,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Michael Busch,CHC,1B,1B,,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Luke Keaschall,MIN,2B,2B,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Junior Caminero,TB,3B,3B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Xavier Edwards,MIA,2B,2B,,89,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,James Wood,WSH,OF,OF,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Roman Anthony,BOS,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Riley Greene,DET,OF,OF,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Bo Bichette,NYM,3B,3B,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Addison Barger,TOR,3B,3B,DTD,40,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Seiya Suzuki,CHC,OF,OF,IL10,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Jesús Luzardo,PHI,SP,SP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Connelly Early,BOS,SP,SP,,60,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Edwin Díaz,LAD,RP,RP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Andrés Muñoz,SEA,RP,RP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Kodai Senga,NYM,SP,SP,,70,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Drew Rasmussen,TB,SP,SP,,89,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Michael King,SD,SP,SP,,92,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Shane Baz,BAL,SP,SP,,74,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Trey Yesavage,TOR,SP,SP,IL15,92,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Roki Sasaki,LAD,SP,SP,,48,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Zack Wheeler,PHI,SP,SP,IL15,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,The Voice of Reason,Corbin Burnes,AZ,SP,SP,IL60,44,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,William Contreras,MIL,C,C,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Nick Kurtz,ATH,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Maikel Garcia,KC,2B,2B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,José Ramírez,CLE,3B,3B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Elly De La Cruz,CIN,SS,SS,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Pete Crow-Armstrong,CHC,OF,OF,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Chase DeLauter,CLE,OF,OF,,81,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Luis Robert Jr.,NYM,OF,OF,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Brent Rooker,ATH,OF,OF,,97,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Rafael Devers,SF,1B,1B,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Michael Harris II,ATL,OF,OF,,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Charlie Condon,COL,1B,1B,NA,6,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Cristopher Sánchez,PHI,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Bryan Woo,SEA,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,David Bednar,NYY,RP,RP,,98,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Ryan Helsley,BAL,RP,RP,,94,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Cole Ragans,KC,SP,SP,,99,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,José Soriano,LAA,SP,SP,,75,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Gavin Williams,CLE,SP,SP,,91,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Shota Imanaga,CHC,SP,SP,,90,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Trevor Rogers,BAL,SP,SP,,92,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,TheHotDogSafari,Gerrit Cole,NYY,SP,SP,IL15,82,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Justin Verlander,DET,SP,SP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Andrew McCutchen,TEX,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Carlos Carrasco,ATL,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Max Scherzer,TOR,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,David Robertson,PHI,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Justin Turner,CHC,1B,1B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Carlos Santana,AZ,1B,1B,DTD,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jason Heyward,SD,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Craig Kimbrel,NYM,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Martín Pérez,ATL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jose Iglesias,SD,2B,2B,SUSP,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Shelby Miller,CHC,RP,RP,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Alex Cobb,DET,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Paul Goldschmidt,NYY,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Wade Miley,CIN,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Liam Hendriks,MIN,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Drew Pomeranz,LAA,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Yu Darvish,SD,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Travis d'Arnaud,LAA,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Gary Sánchez,MIL,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Nolan Arenado,AZ,3B,3B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Anthony Rendon,LAA,3B,3B,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Nick Castellanos,SD,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jurickson Profar,ATL,OF,OF,SUSP,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Starling Marte,KC,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jameson Taillon,CHC,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Erasmo Ramírez,MIN,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Patrick Corbin,TOR,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Miles Mikolas,WSH,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jose Quintana,COL,SP,SP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Donovan Solano,TEX,1B,1B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jorge Soler,LAA,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Brooks Raley,NYM,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Justin Wilson,BOS,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Xander Bogaerts,SD,SS,SS,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Taijuan Walker,PHI,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Michael Wacha,KC,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Austin Hedges,CLE,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,T.J. McFarland,ATH,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ryan Pressly,CHC,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Marcell Ozuna,PIT,Util,Util,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ryan Brasier,TEX,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Caleb Thielbar,CHC,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Joc Pederson,TEX,Util,Util,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Luis García,NYM,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Wilmer Flores,SF,1B,1B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Marcus Semien,NYM,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Christian Bethancourt,CHC,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Lucas Sims,CWS,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Eduardo Rodriguez,AZ,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Hunter Harvey,CHC,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Javier Báez,DET,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Kris Bryant,COL,Util,Util,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Pierce Johnson,CIN,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jesse Winker,NYM,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Robert Stephenson,LAA,RP,RP,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jon Gray,TEX,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tom Murphy,SF,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Carlos Correa,HOU,3B,3B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Lance McCullers Jr.,HOU,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Sean Manaea,NYM,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Andrew Heaney,LAD,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Dominic Smith,ATL,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Rafael Montero,NYY,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Steven Matz,TB,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler Austin,CHC,1B,1B,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,J.P. Crawford,SEA,SS,SS,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Reese McGuire,CWS,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Luke Jackson,NYM,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Marcus Stroman,NYY,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Lucas Giolito,BOS,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Nick Martinez,TB,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tommy Kahnle,BOS,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Blake Treinen,LAD,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Chris Martin,TEX,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Randal Grichuk,NYY,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Anthony DeSclafani,AZ,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,J.T. Realmuto,PHI,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Miguel Rojas,LAD,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Kirby Yates,LAA,RP,RP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Enrique Hernández,LAD,1B,1B,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Christian Vázquez,HOU,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Chris Taylor,LAA,2B,2B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Héctor Neris,KC,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Andrew Chafin,CIN,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Chris Bassitt,BAL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Hunter Strickland,LAA,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Yimi García,TOR,RP,RP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,James McCann,AZ,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Kendall Graveman,AZ,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tommy Pham,NYM,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Danny Coulombe,BOS,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Christian Walker,HOU,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Rob Refsnyder,SEA,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Manuel Margot,DET,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Kyle Freeland,COL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Derek Hill,CWS,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Sean Newcomb,CWS,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Orlando Arcia,MIN,1B,1B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,José Berríos,TOR,SP,SP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Michael Conforto,CHC,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Luis Severino,ATH,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Aaron Nola,PHI,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Josh Bell,MIN,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Alex Jackson,MIN,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Hunter Renfroe,KC,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tim Anderson,LAA,2B,2B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Mark Canha,TEX,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Yoán Moncada,LAA,3B,3B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Miguel Castro,LAA,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,José Ureña,LAA,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Michael Lorenzen (Pitcher),COL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Austin Barnes,NYM,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Joe Ross,AZ,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Gio Urshela,MIN,3B,3B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Matthew Boyd,CHC,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Frankie Montas,NYM,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler Anderson,LAA,SP,SP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Shawn Armstrong,CLE,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Colin Rea,CHC,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Travis Jankowski,NYM,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Scott McGough,ATH,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Luke Maile,KC,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Scott Alexander,SF,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Elias Díaz,KC,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Max Kepler,PHI,OF,OF,SUSP,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jorge López,WSH,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Adrian Houser,SF,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Kenta Maeda,DET,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Steven Okert,HOU,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Mike Yastrzemski,ATL,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Taylor Rogers,MIN,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Zach Eflin,BAL,SP,SP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Trevor Williams,WSH,SP,SP,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ryan Yarbrough,NYY,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Reynaldo López,ATL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Austin Voth,TOR,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Andrew Benintendi,CWS,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Willson Contreras,BOS,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ryan McMahon,NYY,3B,3B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Antonio Senzatela,COL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Sam Moll,CIN,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyrone Taylor,NYM,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler Wade,TEX,2B,2B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Matt Chapman,SF,3B,3B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler O'Neill,BAL,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Luke Weaver,NYM,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Victor Robles,SEA,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Erick Fedde,CWS,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Brendan Rodgers,BOS,2B,2B,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Amed Rosario,NYY,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Dansby Swanson,CHC,SS,SS,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Gleyber Torres,DET,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jorge Mateo,ATL,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Chris Devenski,PIT,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Derek Law,AZ,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Albert Suárez,BAL,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Chad Green,TOR,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Mike Clevinger,PIT,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Chris Stratton,LAD,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jacob Stallings,BAL,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Adam Frazier,LAA,2B,2B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Brock Stewart,LAD,RP,RP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Seth Lugo,KC,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jeimer Candelario,LAA,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,José Leclerc,SD,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Matt Strahm,KC,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Brent Suter,LAA,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Rob Zastryzny,MIL,RP,RP,IL15,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Wandy Peralta,SD,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Joe Mantiply,TOR,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Carson Kelly,CHC,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Germán Márquez,SD,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Michael Kopech,LAD,RP,RP,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Anthony Banda,MIN,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Taylor Clarke,AZ,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Brad Keller,PHI,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Kolby Allard,CLE,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Michael Soroka,AZ,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Joey Wentz,ATL,SP,SP,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ryan Mountcastle,BAL,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Keegan Akin,BAL,SP,SP,IL10,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tanner Scott,LAD,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Eloy Jiménez,TOR,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ian Happ,CHC,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Bryan Hudson,CWS,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler Mahle,SF,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler Stephenson,CIN,C,C,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Nolan Jones,CLE,OF,OF,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Will Benson,CIN,OF,OF,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Joe Jiménez,ATL,RP,RP,IL60,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Tyler Alexander,TEX,SP,SP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Garrett Stubbs,PHI,C,C,NA,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Ryan O'Hearn,PIT,1B,1B,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Foster Griffin,WSH,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Jakob Junis,TEX,RP,RP,,,2026-04-06 09:00 UTC
+Sega Memorial Fantasy Baseball,Free Agent,Taylor Ward,BAL,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Salvador Perez,KC,C,C,,95,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Vladimir Guerrero Jr.,TOR,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Maikel Garcia,KC,2B,2B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Miguel Vargas,CWS,1B,1B,,28,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Geraldo Perdomo,AZ,SS,SS,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Corbin Carroll,AZ,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Christian Yelich,MIL,OF,OF,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Teoscar Hernández,LAD,OF,OF,,93,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Jac Caglianone,KC,1B,1B,,69,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Jose Fernandez,AZ,SS,SS,,9,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Ryan O'Hearn,PIT,1B,1B,,35,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Matt McLain,CIN,2B,2B,,69,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Bryce Eldridge,SF,1B,1B,NA,9,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Garrett Crochet,BOS,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Tyler Glasnow,LAD,SP,SP,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Kodai Senga,NYM,SP,SP,,70,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Aroldis Chapman,BOS,RP,RP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Alex Vesia,LAD,RP,RP,,18,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Camilo Doval,NYY,RP,RP,,11,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Jack Flaherty,DET,SP,SP,,76,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Connelly Early,BOS,SP,SP,,60,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Casey Mize,DET,SP,SP,,39,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Gerrit Cole,NYY,SP,SP,IL15,82,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Corbin Burnes,AZ,SP,SP,IL60,44,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Joe Musgrove,SD,SP,SP,IL15,32,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Evil Empire (6x Champ),Edwin Uceta,TB,RP,RP,IL15,18,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Samuel Basallo,BAL,C,C,,34,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),TJ Rumfield,COL,1B,1B,,6,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Nico Hoerner,CHC,2B,2B,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Bo Bichette,NYM,3B,3B,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jeremy Peña,HOU,SS,SS,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jose Altuve,HOU,2B,2B,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jakob Marsee,MIA,OF,OF,,80,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jordan Walker,STL,OF,OF,,22,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),TJ Friedl,CIN,OF,OF,,21,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Francisco Alvarez,NYM,C,C,,34,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Nick Kurtz,ATH,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jordan Lawlar,AZ,3B,3B,IL10,10,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Charlie Condon,COL,1B,1B,NA,6,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Cam Schlittler,NYY,SP,SP,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Freddy Peralta,NYM,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jacob deGrom,TEX,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Andrew Painter,PHI,SP,SP,,53,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Trevor Megill,MIL,RP,RP,,88,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Jeremiah Estrada,SD,RP,RP,,18,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Fernando Cruz,NYY,RP,RP,,8,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Kris Bubic,KC,SP,SP,,78,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Andrew Abbott,CIN,SP,SP,,86,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Emerson Hancock,SEA,SP,SP,,66,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Zack Wheeler,PHI,SP,SP,IL15,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,Alpha Bear 🔥 (3x),Ryan Pepiot,TB,SP,SP,IL15,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Adley Rutschman,BAL,C,C,,79,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Michael Busch,CHC,1B,1B,,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Ozzie Albies,ATL,2B,2B,,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Alec Bohm,PHI,1B,1B,,64,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Trea Turner,PHI,SS,SS,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Wyatt Langford,TEX,OF,OF,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Luis Robert Jr.,NYM,OF,OF,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Bryan Reynolds,PIT,OF,OF,,80,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Brenton Doyle,COL,OF,OF,,61,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Christian Walker,HOU,1B,1B,,85,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Ernie Clement,TOR,1B,1B,,63,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Masyn Winn,STL,SS,SS,DTD,45,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Dylan Cease,TOR,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Gavin Williams,CLE,SP,SP,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Joe Ryan,MIN,SP,SP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Bryan Woo,SEA,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Dennis Santana,PIT,RP,RP,,80,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Ryan Walker,SF,RP,RP,,77,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,MacKenzie Gore,TEX,SP,SP,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Logan Gilbert,SEA,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Noah Cameron,KC,SP,SP,,37,2026-04-06 09:00 UTC
+League of Champions™ 2026,Brown Bear 🐻,Carlos Rodón,NYY,SP,SP,IL15,86,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Ivan Herrera,STL,C,C,,82,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Josh Naylor,SEA,1B,1B,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Luke Keaschall,MIN,2B,2B,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Munetaka Murakami,CWS,1B,1B,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,CJ Abrams,WSH,SS,SS,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Kyle Schwarber,PHI,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Adolis García,PHI,OF,OF,,46,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Owen Caissie,MIA,OF,OF,,31,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Brandon Lowe,PIT,2B,2B,,82,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Isaac Paredes,HOU,3B,3B,NA,55,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Juan Soto,NYM,OF,OF,DTD,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Andrew Vaughn,MIL,1B,1B,IL10,40,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Chase Burns,CIN,SP,SP,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Braxton Ashcraft,PIT,SP,SP,,49,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Kyle Bradish,BAL,SP,SP,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Cade Smith,CLE,RP,RP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Robert Garcia,TEX,RP,RP,,28,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,JoJo Romero,STL,RP,RP,,15,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Matthew Boyd,CHC,SP,SP,,84,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Ryan Weathers,NYY,SP,SP,,28,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Hunter Brown,HOU,SP,SP,IL15,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Jason Adam,SD,RP,RP,IL15,11,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Nick Lodolo,CIN,SP,SP,IL15,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,El Jefe,Payton Tolle,BOS,SP,SP,NA,9,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Hunter Goodman,COL,C,C,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Vinnie Pasquantino,KC,1B,1B,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Luis García Jr.,WSH,1B,1B,,53,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Manny Machado,SD,3B,3B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Zach Neto,LAA,SS,SS,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Aaron Judge,NYY,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Cody Bellinger,NYY,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Pete Crow-Armstrong,CHC,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Addison Barger,TOR,3B,3B,DTD,40,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Carlos Correa,HOU,3B,3B,,51,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Sal Frelick,MIL,OF,OF,DTD,20,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Bryson Stott,PHI,2B,2B,,45,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Jordan Westburg,BAL,2B,2B,IL60,29,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Tyler Mahle,SF,SP,SP,,7,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Max Fried,NYY,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Tanner Bibee,CLE,SP,SP,,88,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Michael King,SD,SP,SP,,92,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Paul Sewald,AZ,RP,RP,,48,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Riley O'Brien,STL,RP,RP,,32,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Luke Weaver,NYM,RP,RP,,13,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,David Peterson,NYM,SP,SP,,29,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Luis Gil,NYY,SP,SP,NA,12,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Jared Jones,PIT,SP,SP,IL60,20,2026-04-06 09:00 UTC
+League of Champions™ 2026,Gardy Goes Yardy,Carlos Lagrange,NYY,SP,SP,NA,6,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Cal Raleigh,SEA,C,C,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Bryce Harper,PHI,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Marcus Semien,NYM,2B,2B,,73,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Austin Riley,ATL,3B,3B,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Gunnar Henderson,BAL,SS,SS,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Ronald Acuña Jr.,ATL,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Michael Harris II,ATL,OF,OF,,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,James Wood,WSH,OF,OF,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Ramón Laureano,SD,OF,OF,,57,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Ben Rice,NYY,C,C,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Jackson Holliday,BAL,2B,2B,IL10,58,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Colt Emerson,SEA,SS,SS,NA,13,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Lance McCullers Jr.,HOU,SP,SP,,53,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Taijuan Walker,PHI,SP,SP,,3,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Grant Holmes,ATL,SP,SP,,17,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Aaron Nola,PHI,SP,SP,,83,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Bryan Abreu,HOU,RP,RP,,56,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Robert Suarez,ATL,RP,RP,,61,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Gregory Soto,PIT,RP,RP,,22,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Will Warren,NYY,SP,SP,,49,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Brandon Pfaadt,AZ,SP,SP,,12,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Shane Smith,CWS,SP,SP,,13,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Zach Eflin,BAL,SP,SP,IL15,9,2026-04-06 09:00 UTC
+League of Champions™ 2026,FatherOfTwoLoaded,Grayson Rodriguez,LAA,SP,SP,IL15,14,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Liam Hicks,MIA,C,C,,53,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Luis Arraez,SF,1B,1B,,71,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Brendan Donovan,SEA,2B,2B,DTD,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Caleb Durbin,BOS,2B,2B,,22,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Bobby Witt Jr.,KC,SS,SS,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Chandler Simpson,TB,OF,OF,,69,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Steven Kwan,CLE,OF,OF,,84,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Jarren Duran,BOS,OF,OF,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Jacob Wilson,ATH,SS,SS,,79,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Xander Bogaerts,SD,SS,SS,,31,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Yainer Diaz,HOU,C,C,,74,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,José Caballero,NYY,2B,2B,,70,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Cristopher Sánchez,PHI,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Sonny Gray,BOS,SP,SP,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Tyler Alexander,TEX,SP,SP,,12,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Roki Sasaki,LAD,SP,SP,,48,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Emilio Pagán,CIN,RP,RP,,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Griffin Jax,TB,RP,RP,,43,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Daniel Palencia,CHC,RP,RP,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Tatsuya Imai,HOU,SP,SP,,81,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Mitch Keller,PIT,SP,SP,,33,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Carlos Estévez,KC,RP,RP,IL15,72,2026-04-06 09:00 UTC
+League of Champions™ 2026,House Omega,Spencer Schwellenbach,ATL,SP,SP,IL60,46,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Will Smith,LAD,C,C,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Kazuma Okamoto,TOR,1B,1B,,87,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,JJ Wetherholt,STL,2B,2B,,88,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Max Muncy,LAD,3B,3B,,37,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Elly De La Cruz,CIN,SS,SS,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Yordan Alvarez,HOU,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Mike Trout,LAA,OF,OF,DTD,92,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Roman Anthony,BOS,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Corey Seager,TEX,SS,SS,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Jorge Polanco,NYM,2B,2B,,56,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Sal Stewart,CIN,1B,1B,,77,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Trent Grisham,NYY,OF,OF,,53,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Eury Pérez,MIA,SP,SP,,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Mick Abel,MIN,SP,SP,,9,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Randy Vásquez,SD,SP,SP,,36,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Edward Cabrera,CHC,SP,SP,,85,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Pete Fairbanks,MIA,RP,RP,,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Lucas Erceg,KC,RP,RP,,52,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Drew Rasmussen,TB,SP,SP,,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Paul Skenes,PIT,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Cade Horton,CHC,SP,SP,IL15,80,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Justin Steele,CHC,SP,SP,IL60,19,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Bryce Miller,SEA,SP,SP,IL15,30,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Hunter Greene,CIN,SP,SP,IL60,69,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,Cody Ponce,TOR,SP,SP,IL60,21,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Away Game Diapers,River Ryan,LAD,SP,SP,NA,3,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Agustín Ramírez,MIA,C,C,,87,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Yandy Díaz,TB,1B,1B,,95,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Brett Baty,NYM,2B,2B,DTD,11,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Jazz Chisholm Jr.,NYY,2B,2B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Francisco Lindor,NYM,SS,SS,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Riley Greene,DET,OF,OF,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Fernando Tatis Jr.,SD,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Andy Pages,LAD,OF,OF,,92,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Taylor Ward,BAL,OF,OF,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Royce Lewis,MIN,3B,3B,,46,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Byron Buxton,MIN,OF,OF,,93,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Seiya Suzuki,CHC,OF,OF,IL10,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Jesús Luzardo,PHI,SP,SP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Sean Manaea,NYM,SP,SP,,22,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Shota Imanaga,CHC,SP,SP,,90,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Devin Williams,NYM,RP,RP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Raisel Iglesias,ATL,RP,RP,,95,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Jameson Taillon,CHC,SP,SP,,17,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Clay Holmes,NYM,SP,SP,,50,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Reynaldo López,ATL,SP,SP,,30,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Nick Pivetta,SD,SP,SP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,Spirit of Troy,Trevor Rogers,BAL,SP,SP,,92,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Nick Fortes,TB,C,C,,2,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Tyler Soderstrom,ATH,1B,1B,,95,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Gleyber Torres,DET,2B,2B,,74,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Junior Caminero,TB,3B,3B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Kevin McGonigle,DET,3B,3B,,83,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),George Springer,TOR,OF,OF,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Wilyer Abreu,BOS,OF,OF,,82,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Kyle Isbel,KC,OF,OF,,17,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Cole Young,SEA,2B,2B,,11,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Max Muncy,ATH,2B,2B,,27,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Jackson Merrill,SD,OF,OF,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Alejandro Kirk,TOR,C,C,IL10,40,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Jackson Chourio,MIL,OF,OF,IL10,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Kyle Stowers,MIA,OF,OF,IL10,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Leo De Vries,ATH,SS,SS,NA,9,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Mike Burrows,HOU,SP,SP,,34,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Jhoan Duran,PHI,RP,RP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Mason Miller,SD,RP,RP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Bubba Chandler,PIT,SP,SP,,90,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Jack Leiter,TEX,SP,SP,,57,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Nolan McLean,NYM,SP,SP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Jacob Misiorowski,MIL,SP,SP,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Sandy Alcantara,MIA,SP,SP,,95,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Shane Baz,BAL,SP,SP,,74,2026-04-06 09:00 UTC
+League of Champions™ 2026,That’s Reddickulous (2x),Emmet Sheehan,LAD,SP,SP,,87,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Carter Jensen,KC,C,C,,19,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Jake Burger,TEX,1B,1B,,33,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Javier Sanoja,MIA,2B,2B,,2,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,José Ramírez,CLE,3B,3B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Otto Lopez,MIA,2B,2B,,67,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Oneil Cruz,PIT,OF,OF,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Chase DeLauter,CLE,OF,OF,,81,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Heliot Ramos,SF,OF,OF,,59,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Justin Crawford,PHI,OF,OF,,21,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Giancarlo Stanton,NYY,OF,OF,,62,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Ketel Marte,AZ,2B,2B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Willson Contreras,BOS,1B,1B,,86,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Carson Benge,NYM,OF,OF,,27,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Trevor Story,BOS,SS,SS,,87,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Lourdes Gurriel Jr.,AZ,OF,OF,IL10,3,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Aidan Miller,PHI,SS,SS,NA,3,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Tarik Skubal,DET,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,George Kirby,SEA,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Ranger Suarez,BOS,SP,SP,,87,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Framber Valdez,DET,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Andrés Muñoz,SEA,RP,RP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Abner Uribe,MIL,RP,RP,,70,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Will Vest,DET,RP,RP,,14,2026-04-06 09:00 UTC
+League of Champions™ 2026,Skub and the gang,Hunter Gaddis,CLE,RP,RP,IL15,11,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Drake Baldwin,ATL,C,C,,93,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Pete Alonso,BAL,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Ceddanne Rafaela,BOS,2B,2B,,84,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Colson Montgomery,CWS,3B,3B,,86,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Willy Adames,SF,SS,SS,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Brandon Nimmo,TEX,OF,OF,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Ian Happ,CHC,OF,OF,,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Daylen Lile,WSH,OF,OF,,59,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Shohei Ohtani (Batter),LAD,Util,Util,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Ezequiel Tovar,COL,SS,SS,,76,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Dylan Crews,WSH,OF,OF,NA,39,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Chad Patrick,MIL,SP,SP,,19,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Yoshinobu Yamamoto,LAD,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Michael Soroka,AZ,SP,SP,,43,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Eric Lauer,TOR,SP,SP,,44,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Edwin Díaz,LAD,RP,RP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Ryan Helsley,BAL,RP,RP,,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),David Bednar,NYY,RP,RP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),José Soriano,LAA,SP,SP,,75,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Nathan Eovaldi,TEX,SP,SP,,90,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Brandon Woodruff,MIL,SP,SP,,94,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Jordan Romano,LAA,RP,RP,,47,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Trey Yesavage,TOR,SP,SP,IL15,92,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Kranimals (0x),Spencer Strider,ATL,SP,SP,IL15,90,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),William Contreras,MIL,C,C,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Freddie Freeman,LAD,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Xavier Edwards,MIA,2B,2B,,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Alex Bregman,CHC,3B,3B,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Mauricio Dubón,ATL,2B,2B,,18,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Kyle Tucker,LAD,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Randy Arozarena,SEA,OF,OF,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Lawrence Butler,ATH,OF,OF,,70,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Matt Olson,ATL,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Joey Wiemer,WSH,OF,OF,,35,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Matt Chapman,SF,3B,3B,,91,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Dillon Dingler,DET,C,C,,25,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Mookie Betts,LAD,SS,SS,IL10,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Kyle Teel,CWS,C,C,IL10,12,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Zac Gallen,AZ,SP,SP,,80,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Cole Ragans,KC,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Parker Messick,CLE,SP,SP,,43,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Chris Sale,ATL,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Jeff Hoffman,TOR,RP,RP,,93,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Erik Sabrowski,CLE,RP,RP,,16,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Gabe Speier,SEA,RP,RP,,7,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Kyle Harrison,MIL,SP,SP,,37,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Shane Bieber,TOR,SP,SP,IL15,57,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Josh Hader,HOU,RP,RP,IL15,93,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Blake Snell,LAD,SP,SP,IL15,93,2026-04-06 09:00 UTC
+League of Champions™ 2026,The Spice Lord (10% Champion),Logan Henderson,MIL,SP,SP,NA,15,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Shea Langeliers,ATH,C,C,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Jonathan Aranda,TB,1B,1B,,76,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Brice Turang,MIL,2B,2B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Eugenio Suárez,CIN,3B,3B,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Konnor Griffin,PIT,SS,SS,,86,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Julio Rodríguez,SEA,OF,OF,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Alec Burleson,STL,1B,1B,,89,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Jo Adell,LAA,OF,OF,,87,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Rafael Devers,SF,1B,1B,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Brent Rooker,ATH,OF,OF,,97,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Dansby Swanson,CHC,SS,SS,,80,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Logan Webb,SF,SP,SP,,99,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Shohei Ohtani (Pitcher),LAD,SP,SP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Michael Wacha,KC,SP,SP,,33,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Shane McClanahan,TB,SP,SP,,84,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Tanner Scott,LAD,RP,RP,,13,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Matt Strahm,KC,RP,RP,,19,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Matt Brash,SEA,RP,RP,,12,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Luis Castillo,SEA,SP,SP,,96,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Kevin Gausman,TOR,SP,SP,,98,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Robbie Ray,SF,SP,SP,,90,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Merrill Kelly,AZ,SP,SP,IL15,64,2026-04-06 09:00 UTC
+League of Champions™ 2026,WestCoastTruth (1x Champ),Garrett Whitlock,BOS,RP,RP,NA,28,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Justin Verlander,DET,SP,SP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Andrew McCutchen,TEX,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Carlos Carrasco,ATL,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Max Scherzer,TOR,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,David Robertson,PHI,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Justin Turner,CHC,1B,1B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Carlos Santana,AZ,1B,1B,DTD,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jason Heyward,SD,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Craig Kimbrel,NYM,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Martín Pérez,ATL,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kenley Jansen,DET,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jose Iglesias,SD,2B,2B,SUSP,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Shelby Miller,CHC,RP,RP,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Alex Cobb,DET,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Paul Goldschmidt,NYY,1B,1B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Wade Miley,CIN,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Liam Hendriks,MIN,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Drew Pomeranz,LAA,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Yu Darvish,SD,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Travis d'Arnaud,LAA,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Gary Sánchez,MIL,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Nolan Arenado,AZ,3B,3B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Anthony Rendon,LAA,3B,3B,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Nick Castellanos,SD,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jurickson Profar,ATL,OF,OF,SUSP,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Starling Marte,KC,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Erasmo Ramírez,MIN,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Patrick Corbin,TOR,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Miles Mikolas,WSH,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jose Quintana,COL,SP,SP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Donovan Solano,TEX,1B,1B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jorge Soler,LAA,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Brooks Raley,NYM,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Justin Wilson,BOS,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Austin Hedges,CLE,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,T.J. McFarland,ATH,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Ryan Pressly,CHC,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Marcell Ozuna,PIT,Util,Util,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Ryan Brasier,TEX,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Caleb Thielbar,CHC,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Joc Pederson,TEX,Util,Util,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Luis García,NYM,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Wilmer Flores,SF,1B,1B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Christian Bethancourt,CHC,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Lucas Sims,CWS,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Eduardo Rodriguez,AZ,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Hunter Harvey,CHC,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Javier Báez,DET,2B,2B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kris Bryant,COL,Util,Util,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Pierce Johnson,CIN,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jesse Winker,NYM,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Robert Stephenson,LAA,RP,RP,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jon Gray,TEX,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tom Murphy,SF,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Andrew Heaney,LAD,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Dominic Smith,ATL,1B,1B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Rafael Montero,NYY,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Steven Matz,TB,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tyler Austin,CHC,1B,1B,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,J.P. Crawford,SEA,SS,SS,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Reese McGuire,CWS,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Luke Jackson,NYM,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Marcus Stroman,NYY,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Lucas Giolito,BOS,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Nick Martinez,TB,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tommy Kahnle,BOS,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Blake Treinen,LAD,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Chris Martin,TEX,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Randal Grichuk,NYY,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Anthony DeSclafani,AZ,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,J.T. Realmuto,PHI,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Miguel Rojas,LAD,2B,2B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kirby Yates,LAA,RP,RP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Enrique Hernández,LAD,1B,1B,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Christian Vázquez,HOU,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Chris Taylor,LAA,2B,2B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Héctor Neris,KC,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Andrew Chafin,CIN,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Chris Bassitt,BAL,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Hunter Strickland,LAA,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Yimi García,TOR,RP,RP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,James McCann,AZ,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kendall Graveman,AZ,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tommy Pham,NYM,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Danny Coulombe,BOS,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Rob Refsnyder,SEA,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Manuel Margot,DET,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kyle Freeland,COL,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Derek Hill,CWS,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Sean Newcomb,CWS,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Orlando Arcia,MIN,1B,1B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,José Berríos,TOR,SP,SP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Michael Conforto,CHC,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Luis Severino,ATH,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Josh Bell,MIN,1B,1B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Alex Jackson,MIN,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Hunter Renfroe,KC,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tim Anderson,LAA,2B,2B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Mark Canha,TEX,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Yoán Moncada,LAA,3B,3B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Miguel Castro,LAA,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,José Ureña,LAA,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Michael Lorenzen (Pitcher),COL,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Austin Barnes,NYM,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Joe Ross,AZ,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Gio Urshela,MIN,3B,3B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Frankie Montas,NYM,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tyler Anderson,LAA,SP,SP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Shawn Armstrong,CLE,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Colin Rea,CHC,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Travis Jankowski,NYM,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Scott McGough,ATH,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Luke Maile,KC,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Scott Alexander,SF,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Elias Díaz,KC,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Max Kepler,PHI,OF,OF,SUSP,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jorge López,WSH,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Adrian Houser,SF,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kenta Maeda,DET,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Steven Okert,HOU,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Mike Yastrzemski,ATL,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Taylor Rogers,MIN,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Trevor Williams,WSH,SP,SP,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Ryan Yarbrough,NYY,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Austin Voth,TOR,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Andrew Benintendi,CWS,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Ryan McMahon,NYY,3B,3B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Antonio Senzatela,COL,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Sam Moll,CIN,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tyrone Taylor,NYM,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tyler Wade,TEX,2B,2B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tyler O'Neill,BAL,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Victor Robles,SEA,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Erick Fedde,CWS,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Brendan Rodgers,BOS,2B,2B,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Amed Rosario,NYY,2B,2B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jorge Mateo,ATL,2B,2B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Chris Devenski,PIT,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Derek Law,AZ,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Albert Suárez,BAL,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Chad Green,TOR,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Mike Clevinger,PIT,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Chris Stratton,LAD,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jacob Stallings,BAL,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Adam Frazier,LAA,2B,2B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Brock Stewart,LAD,RP,RP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Seth Lugo,KC,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jeimer Candelario,LAA,1B,1B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,José Leclerc,SD,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Brent Suter,LAA,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Rob Zastryzny,MIL,RP,RP,IL15,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Wandy Peralta,SD,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Joe Mantiply,TOR,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Carson Kelly,CHC,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Germán Márquez,SD,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Michael Kopech,LAD,RP,RP,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Anthony Banda,MIN,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Taylor Clarke,AZ,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Brad Keller,PHI,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Kolby Allard,CLE,SP,SP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Joey Wentz,ATL,SP,SP,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Ryan Mountcastle,BAL,1B,1B,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Keegan Akin,BAL,SP,SP,IL10,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Eloy Jiménez,TOR,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Bryan Hudson,CWS,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Tyler Stephenson,CIN,C,C,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Nolan Jones,CLE,OF,OF,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Will Benson,CIN,OF,OF,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Joe Jiménez,ATL,RP,RP,IL60,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Garrett Stubbs,PHI,C,C,NA,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Foster Griffin,WSH,RP,RP,,,2026-04-06 09:00 UTC
+League of Champions™ 2026,Free Agent,Jakob Junis,TEX,RP,RP,,,2026-04-06 09:00 UTC
