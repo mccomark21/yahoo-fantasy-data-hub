@@ -13,6 +13,7 @@ from pathlib import Path
 
 import yaml
 from dotenv import load_dotenv
+from yfpy.exceptions import YahooFantasySportsDataNotFound
 from yfpy.query import YahooFantasySportsQuery
 
 # Load .env from project root
@@ -140,7 +141,61 @@ def discover_leagues(token_json):
     return result
 
 
-def fetch_league_data(league_id, league_name, token_json, free_agent_limit):
+def fetch_free_agents(query, league_name, fa_config):
+    """Fetch free agents using Yahoo API filters (status=FA, position, sort)."""
+    positions = fa_config["positions"]
+    limit_per_pos = fa_config["limit"]
+    sort = fa_config["sort"]
+    sort_type = fa_config["sort_type"]
+    league_key = query.get_league_key()
+    batch_size = 25
+    fa_players = []
+
+    for pos in positions:
+        print(f"  Fetching free agent {pos} (limit: {limit_per_pos}, "
+              f"sort: {sort}/{sort_type})...")
+        start = 0
+        pos_count = 0
+
+        while pos_count < limit_per_pos:
+            url = (
+                f"https://fantasysports.yahooapis.com/fantasy/v2/league/"
+                f"{league_key}/players;"
+                f"status=FA;position={pos};sort={sort};"
+                f"sort_type={sort_type};start={start};count={batch_size}"
+            )
+            try:
+                players_data = query.query(url, ["league", "players"])
+            except YahooFantasySportsDataNotFound:
+                break
+            except Exception as e:
+                print(f"  Warning: Error fetching {pos} free agents "
+                      f"at offset {start}: {e}")
+                break
+
+            batch = (players_data if isinstance(players_data, list)
+                     else [players_data])
+            if not batch:
+                break
+
+            remaining = limit_per_pos - pos_count
+            for player in batch[:remaining]:
+                player_obj = getattr(player, "player", player)
+                fa_players.append(
+                    extract_player(player_obj, league_name, "Free Agent")
+                )
+                pos_count += 1
+
+            start += len(batch)
+            if len(batch) < batch_size:
+                break
+
+        print(f"    {pos}: {pos_count} free agents")
+
+    return fa_players
+
+
+def fetch_league_data(league_id, league_name, token_json, fa_config):
     """Fetch all rostered players and free agents for one league."""
     print(f"\n{'='*50}")
     print(f"League: {decode_str(league_name)} (ID: {league_id})")
@@ -154,7 +209,6 @@ def fetch_league_data(league_id, league_name, token_json, free_agent_limit):
         league_name = decode_str(getattr(metadata, "name", f"League {league_id}"))
 
     all_players = []
-    rostered_keys = set()
 
     # --- Rostered players ---
     teams = query.get_league_teams()
@@ -178,35 +232,16 @@ def fetch_league_data(league_id, league_name, token_json, free_agent_limit):
         count = 0
         for player in roster:
             player_obj = getattr(player, "player", player)
-            player_key = getattr(player_obj, "player_key", "")
-            rostered_keys.add(player_key)
             all_players.append(extract_player(player_obj, league_name, team_name))
             count += 1
 
         print(f"  {team_name}: {count} players")
 
-    # --- Free agents ---
-    print(f"  Scanning league player pool (limit: {free_agent_limit})...")
-    try:
-        league_players = query.get_league_players(
-            player_count_limit=free_agent_limit
-        )
-    except Exception as e:
-        print(f"  Warning: Could not fetch league players: {e}")
-        league_players = []
+    # --- Free agents (filtered by status=FA server-side) ---
+    fa_players = fetch_free_agents(query, league_name, fa_config)
+    all_players.extend(fa_players)
 
-    fa_count = 0
-    for player in league_players:
-        player_obj = getattr(player, "player", player)
-        player_key = getattr(player_obj, "player_key", "")
-
-        if player_key in rostered_keys:
-            continue
-
-        all_players.append(extract_player(player_obj, league_name, "Free Agent"))
-        fa_count += 1
-
-    print(f"  Free agents: {fa_count}")
+    print(f"  Free agents: {len(fa_players)}")
     print(f"  Total: {len(all_players)} players")
     return all_players
 
@@ -229,7 +264,12 @@ def main():
         with open(config_path) as f:
             config = yaml.safe_load(f) or {}
 
-    free_agent_limit = config.get("free_agent_limit", 250)
+    fa_config = {
+        "positions": config.get("free_agent_positions", ["B", "P"]),
+        "limit": config.get("free_agent_limit", 500),
+        "sort": config.get("free_agent_sort", "AR"),
+        "sort_type": config.get("free_agent_sort_type", "season"),
+    }
     configured_ids = config.get("league_ids", [])
 
     # Resolve leagues
@@ -258,7 +298,7 @@ def main():
             league_info["league_id"],
             league_info["name"],
             token_json,
-            free_agent_limit,
+            fa_config,
         )
         all_data.extend(players)
 

@@ -6,6 +6,20 @@ game_code: mlb
 #   - "12345"
 #   - "67890"
 
-# Maximum number of players to scan from the league player pool for free agents.
-# Yahoo returns ~25 per API page. 250 = 10 pages = 10 API calls per league.
-free_agent_limit: 250
+# --- Free agent settings ---
+# Position groups to fetch. "B" = batters, "P" = pitchers.
+# Use specific positions (e.g., "SS", "OF", "SP") or broad groups.
+free_agent_positions:
+  - "B"
+  - "P"
+
+# Maximum free agents to fetch *per position group*.
+# 500 batters + 500 pitchers = ~40 API calls per league.
+free_agent_limit: 500
+
+# Sort free agents by this criterion. AR = Actual Rank, OR = Overall Rank,
+# PTS = Fantasy Points, NAME = alphabetical.
+free_agent_sort: AR
+
+# Time scope for sorting. Options: season, lastweek, lastmonth.
+free_agent_sort_type: season
